@@ -1,0 +1,47 @@
+{
+	"profile":
+	{
+		"img":"photos/2.jpg",
+		"name":"D.MEGHANA",
+		"roll":"16A31A0565",
+		"institute":"PRAGATI ENGINEERING",
+		"place":"RAJAHMUNDRY"
+
+},
+"career":{
+	"info":"to secure job in infosys"
+
+},
+"education":[
+{
+	"sno":"1",
+	"degree":"B.Tech",
+	"institute":"Pragati",
+	"yop":"2020"
+},
+
+{
+	"sno":"2",
+	"degree":"Inter",
+	"institute":"Sri chaithnya",
+	"yop":"2016"
+},
+{
+	"sno":"3",
+	"degree":"School",
+	"institute":"Ravindra bharathi",
+	"yop":"2014"
+}
+],
+"languages":[
+{
+	"lang":"ENGILSH"
+},
+{
+    "lang":"Telugu"
+},
+{
+    "lang":"TAMIL"
+}
+]
+}

@@ -1,0 +1,27 @@
+body{
+	background:blue;
+}
+#maindiv
+{
+	background:pink;
+	display:flex;
+	justify-content: space-around;
+	margin:10%;
+	border-radius: 3%
+}
+.subdiv
+{
+	background color:white;
+	margin:3%;
+	border-radius:5%;
+	text-align: center;
+	width: 25%;
+	box-shadow: 4px 4px 4px 4px;
+}
+img
+{
+	margin:3%;
+	border-radius:4%;
+	height: 25%;
+	width:25%;
+}
